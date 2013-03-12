@@ -1,0 +1,15 @@
+{
+  "name": "svg-or-png",
+  "repo": "charlottegore/svg-or-png",
+  "description": "returns an element that'll load an SVG file, or an IMG to load a PNG file",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "charlottegore/oldie": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
