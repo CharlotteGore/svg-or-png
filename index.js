@@ -5,7 +5,7 @@ module.exports = function( root ){
 	var el;
 
 
-	if(isOldIE){
+	if(useImg){
 
 		el = document.createElement('img');
 		el.setAttribute('src', root + '.png');
